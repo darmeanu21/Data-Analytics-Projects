@@ -19,10 +19,13 @@ Jupyter Notebook for code execution and iterative analysis
 How to Run the Project:
 Clone or download this repository.
 Ensure you have Python installed (version 3.8 or higher is recommended).
+Make sure to change the location in
+movies = pd.read_csv(r'C:\Users\emili\Downloads\imdb_movies.csv')
+as your computer will almost surely not have it stored in the same place.
 Run the cells in the notebook sequentially to replicate the analysis.
+
 Results and Insights
 This project provides answers to the research questions with supporting visualizations, including:
-
 Future Improvements
 Expand the analysis to include trends over time (e.g., how genres' popularity evolves).
 Create more visualizations using Seaborn
