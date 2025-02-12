@@ -24,7 +24,7 @@ movies = pd.read_csv(r'C:\Users\emili\Downloads\imdb_movies.csv')
 as your computer will almost surely not have it stored in the same place.
 Run the cells in the notebook sequentially to replicate the analysis.
 
-Results and Insights
+Results and Insights:
 This project provides answers to the research questions with supporting visualizations, including:
 Future Improvements
 Expand the analysis to include trends over time (e.g., how genres' popularity evolves).
